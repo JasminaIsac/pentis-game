@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="PentisGame.Core/PentisGame.Core.csproj" />
+  <Project Path="PentisGame.Data/PentisGame.Data.csproj" />
+  <Project Path="PentisGame.Tests/PentisGame.Tests.csproj" />
+  <Project Path="PentisGame.UI/PentisGame.UI.csproj" />
+</Solution>
